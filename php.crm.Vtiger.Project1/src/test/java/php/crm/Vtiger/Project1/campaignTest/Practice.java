@@ -21,6 +21,8 @@ public class Practice {
 		System.out.println(year.substring(1, 3));
 		
 		System.out.println("Demo Print");
+		System.out.println("Demo Print");
+
 	}
 	
 }
