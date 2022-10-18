@@ -20,7 +20,7 @@ public class Practice {
 		String year = date.getYear()+"";
 		System.out.println(year.substring(1, 3));
 		
-		
+		System.out.println("Demo Print");
 	}
 	
 }
